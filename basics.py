@@ -18,7 +18,7 @@ is_student = False
 
 
 # Now it is your turn, fill in these variables with different data (maybe about you, but it doesn't have to be)
-age = 25
+age = 27
 name = "Hamilton"
 height = 5.10 
 is_student = true
